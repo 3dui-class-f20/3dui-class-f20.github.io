@@ -1,0 +1,35 @@
+main:
+- title: Syllabus
+  url: /syllabus/
+  excerpt: Details you need to know
+  image: /assets/images/keep-calm-its-in-the-syllabus.png
+- title: Schedule
+  url: /schedule/
+  excerpt: Schedule for the class
+  image: /assets/images/schedule-teaser-360x240.png
+- title: Github
+  url: https://github.com/3dui-class-f20/
+  excerpt: Source code repository for the site
+  image: /assets/images/Octocat.png
+
+side:
+  - title: Instructors and TAs
+    url: /instructors/
+  - title: Resources
+    url: /resources/
+    children:
+      - title: Canvas
+        url: https://gatech.instructure.com/courses/145400
+      - title: OneNote
+        url: https://teams.microsoft.com/_#/school/ClassNotebook/General?threadId=19:0f5a3c410005467084fb3c9fb5f39e79@thread.tacv2&ctx=channel
+      - title: Teams
+        url: https://teams.microsoft.com/l/team/19%3a0f5a3c410005467084fb3c9fb5f39e79%40thread.tacv2/conversations?groupId=63b05577-60bc-4d93-809a-de9508a59783&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083
+  - title: Project
+    url: /project/
+    children:
+      - title: Project Details
+        url: /project/
+      - title: Project Ideas
+        url: /project-ideas/
+      - title: Papers and Readings
+        url: /readings/
