@@ -11,8 +11,8 @@ layout: single
 
 - [1. Outline](#1-outline)
 - [2. Course Description](#2-course-description)
-        - [2.1. Course Expectations expanding on what is in Banner](#21-course-expectations-expanding-on-what-is-in-banner)
-        - [2.2. VR Displays](#22-vr-displays)
+    - [2.1. Course Expectations expanding on what is in Banner](#21-course-expectations-expanding-on-what-is-in-banner)
+    - [2.2. VR Displays](#22-vr-displays)
 - [3. Course Goals](#3-course-goals)
 - [4. Required Textbooks](#4-required-textbooks)
 - [5. Grading](#5-grading)
@@ -43,7 +43,7 @@ For undergraduates in CS4803-3DUI, CS 3451 is required, and CS 3750 is beneficia
  
 For graduate students in CS8803-3DUI, either CS6491 or an undergraduate course in computer graphics is required, and a graduate or undergraduate HCI class in recommended (but not required).  This class will count as an elective in either the Computer Graphics or HCI Specializations.
 
-### Course Expectations (expanding on what is in Banner)
+## 2.1. Course Expectations (expanding on what is in Banner)
 <!-- This class is a remote synchronous class. Lectures will be pre-recorded so that you can watch them asynchronously outside of class time. Synchronous class time will be used for additional activities, including tutorials, student presentations, and virtual poster sessions. Attendance is expected, via video or in social 3D virtual environments. You will need a reasonable internet connection and 3D-capable computer. Programming will be done with web tech, using WebGL-based libraries. -->
 <!-- This class is a remote synchronous class. However, you will need to pick up (or arrange for someone to pick up) a VR display from campus if you do not own one, and drop it off at the end of the semester.
 
@@ -60,7 +60,7 @@ The practical requirements and opportunities of this class stem from the 3D UI m
 - Social 3D virtual environments will either be desktop based (e.g., Mozilla Hubs, which runs in a browser window) or VR based (e.g., Hubs, or other systems like Rec Room, Big Screen, and so on.)
 - You will need a reasonable internet connection and 3D-capable computer. You should verify that your computer is capable of running Mozilla's Hubs 3D Social VR software (visit hubs.mozilla.com).
 
-### VR Displays
+## 2.2. VR Displays
 
 Fully immersive VR displays come in two sorts;  3-degree-of-freedom (you can look around, but they don't let you move) and 6-degree-of-freedom (you can look and move around).  We will use the later sort for this class. 
 
