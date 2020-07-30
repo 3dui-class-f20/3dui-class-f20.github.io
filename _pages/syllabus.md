@@ -12,12 +12,13 @@ layout: single
 - [1. Outline](#1-outline)
 - [2. Course Description](#2-course-description)
         - [2.1. Course Expectations expanding on what is in Banner](#21-course-expectations-expanding-on-what-is-in-banner)
+        - [2.2. VR Displays](#22-vr-displays)
 - [3. Course Goals](#3-course-goals)
 - [4. Required Textbooks](#4-required-textbooks)
 - [5. Grading](#5-grading)
 - [6. Homework Assignments](#6-homework-assignments)
 - [7. Human Subjects Training](#7-human-subjects-training)
-- [8. Projects](#8-projects)
+- [8. Grad Project for CS8803](#8-grad-project-for-cs8803)
 - [9. Attendance](#9-attendance)
 - [10. Accommodations for Students with Disabilities](#10-accommodations-for-students-with-disabilities)
 - [11. Anti-Harassment Policy](#11-anti-harassment-policy)
@@ -44,15 +45,33 @@ For graduate students in CS8803-3DUI, either CS6491 or an undergraduate course i
 
 ### Course Expectations (expanding on what is in Banner)
 <!-- This class is a remote synchronous class. Lectures will be pre-recorded so that you can watch them asynchronously outside of class time. Synchronous class time will be used for additional activities, including tutorials, student presentations, and virtual poster sessions. Attendance is expected, via video or in social 3D virtual environments. You will need a reasonable internet connection and 3D-capable computer. Programming will be done with web tech, using WebGL-based libraries. -->
+<!-- This class is a remote synchronous class. However, you will need to pick up (or arrange for someone to pick up) a VR display from campus if you do not own one, and drop it off at the end of the semester.
+
+Lectures will be pre-recorded so that you can watch them asynchronously outside of class time. Synchronous class time will be used for additional activities, including tutorials, student presentations, and virtual poster sessions. Attendance is expected, via video or in social 3D virtual environments. 
+
+You will need a reasonable internet connection and 3D-capable computer. Programming will be done with web technology, using WebGL-based libraries.-->
 
 The practical requirements and opportunities of this class stem from the 3D UI material:
 - This class is being run as a remote synchronous class. 
-- Each student must have (or will be provided) a VR display. 
+- Each student will use a VR display for assignments and projects, and to experience 3D user interfaces and social VR;  we have enough to provide one to every student who does not have their own. _You will need to pick up (or arrange for someone to pick up) a VR display from campus if you do not own one, and drop it off at the end of the semester_.
 - Lectures will be pre-recorded so that you can watch them asynchronously outside of class time. 
 - Synchronous class time will be used for additional activities, including tutorials, student presentations, and virtual poster sessions. Attendance during class time is expected.
 - Each class will use a mix of video conferencing or take place in social 3D virtual environments (depending on the goals of the day). We will give advance notice of which mode we will use each class.
 - Social 3D virtual environments will either be desktop based (e.g., Mozilla Hubs, which runs in a browser window) or VR based (e.g., Hubs, or other systems like Rec Room, Big Screen, and so on.)
 - You will need a reasonable internet connection and 3D-capable computer. You should verify that your computer is capable of running Mozilla's Hubs 3D Social VR software (visit hubs.mozilla.com).
+
+### VR Displays
+
+Fully immersive VR displays come in two sorts;  3-degree-of-freedom (you can look around, but they don't let you move) and 6-degree-of-freedom (you can look and move around).  We will use the later sort for this class. 
+
+You will need a display that has a web browser that lets you program with [WebXR](https://immersiveweb.dev/), the web API for virtual and augmented reality.  Possibilities include VR displays connected to a Windows 10 desktop (e.g., HTC Vive, Vive Pro, or Cosmos; Oculus Rift; Valve Index; one of many Windows MR displays) or a stand-alone display such as the Oculus Quest or the Pico Neo2.
+
+VR devices that don't support a Web browser with WebXR will not work for this class (e.g., the PSVR for the PS4).
+
+If you have a device that will work, great!  If you don't we will provide one. There is a survey on canvas that includes questions about your technology setup, that will help us figure out which display to send you.  We will sort this out after the first week, once we have a final list of who is registered for the class.
+
+Mac and Linux users will need to use a standalone device like the Quest;  if you have a [Windows MR capable Windows 10 machine](https://support.microsoft.com/en-us/help/4039260/windows-10-mixed-reality-pc-hardware-guidelines) you may also use a Windows MR display. We have both Oculus Quests and Windows MR displays, but not enough of either for the whole class, so we will allocate them as best we can. There are pros and cons to each type of display, so don't worry too much about which one you end up with.
+
 
 # 3. Course Goals
 
