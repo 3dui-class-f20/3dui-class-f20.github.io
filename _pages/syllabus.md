@@ -11,23 +11,23 @@ layout: single
 
 - [1. Outline](#1-outline)
 - [2. Course Description](#2-course-description)
-    - [2.1. Course Expectations expanding on what is in Banner](#21-course-expectations-expanding-on-what-is-in-banner)
-    - [2.2. VR Displays](#22-vr-displays)
-- [3. Course Goals](#3-course-goals)
-- [4. Required Textbooks](#4-required-textbooks)
-- [5. Grading](#5-grading)
-- [6. Homework Assignments](#6-homework-assignments)
-- [7. Human Subjects Training](#7-human-subjects-training)
-- [8. Grad Project for CS8803](#8-grad-project-for-cs8803)
-- [9. Attendance](#9-attendance)
-- [10. Accommodations for Students with Disabilities](#10-accommodations-for-students-with-disabilities)
-- [11. Anti-Harassment Policy](#11-anti-harassment-policy)
-- [12. Academic Integrity, Collaboration and Web Resources](#12-academic-integrity-collaboration-and-web-resources)
-- [13. Exams](#13-exams)
-- [14. Contacting the Instructor and TAs](#14-contacting-the-instructor-and-tas)
-- [15. Use of Code You Did Not Write Yourself](#15-use-of-code-you-did-not-write-yourself)
-- [16. Use of Media and Text you Did Not Create Yourself](#16-use-of-media-and-text-you-did-not-create-yourself)
-- [17. Late Policy](#17-late-policy)
+- [3. Course Expectations expanding on what is in Banner](#3-course-expectations-expanding-on-what-is-in-banner)
+- [4. VR Displays](#4-vr-displays)
+- [5. Course Goals](#5-course-goals)
+- [6. Required Textbooks](#6-required-textbooks)
+- [7. Grading](#7-grading)
+- [8. Homework Assignments](#8-homework-assignments)
+- [9. Human Subjects Training](#9-human-subjects-training)
+- [10. Grad Project for CS8803](#10-grad-project-for-cs8803)
+- [11. Attendance](#11-attendance)
+- [12. Accommodations for Students with Disabilities](#12-accommodations-for-students-with-disabilities)
+- [13. Anti-Harassment Policy](#13-anti-harassment-policy)
+- [14. Academic Integrity, Collaboration and Web Resources](#14-academic-integrity-collaboration-and-web-resources)
+- [15. Exams](#15-exams)
+- [16. Contacting the Instructor and TAs](#16-contacting-the-instructor-and-tas)
+- [17. Use of Code You Did Not Write Yourself](#17-use-of-code-you-did-not-write-yourself)
+- [18. Use of Media and Text you Did Not Create Yourself](#18-use-of-media-and-text-you-did-not-create-yourself)
+- [19. Late Policy](#19-late-policy)
 
 <!-- /TOC -->
 
@@ -43,7 +43,7 @@ For undergraduates in CS4803-3DUI, CS 3451 is required, and CS 3750 is beneficia
  
 For graduate students in CS8803-3DUI, either CS6491 or an undergraduate course in computer graphics is required, and a graduate or undergraduate HCI class in recommended (but not required).  This class will count as an elective in either the Computer Graphics or HCI Specializations.
 
-## 2.1. Course Expectations (expanding on what is in Banner)
+# 2. Course Expectations (expanding on what is in Banner)
 <!-- This class is a remote synchronous class. Lectures will be pre-recorded so that you can watch them asynchronously outside of class time. Synchronous class time will be used for additional activities, including tutorials, student presentations, and virtual poster sessions. Attendance is expected, via video or in social 3D virtual environments. You will need a reasonable internet connection and 3D-capable computer. Programming will be done with web tech, using WebGL-based libraries. -->
 <!-- This class is a remote synchronous class. However, you will need to pick up (or arrange for someone to pick up) a VR display from campus if you do not own one, and drop it off at the end of the semester.
 
@@ -60,7 +60,7 @@ The practical requirements and opportunities of this class stem from the 3D UI m
 - Social 3D virtual environments will either be desktop based (e.g., Mozilla Hubs, which runs in a browser window) or VR based (e.g., Hubs, or other systems like Rec Room, Big Screen, and so on.)
 - You will need a reasonable internet connection and 3D-capable computer. You should verify that your computer is capable of running Mozilla's Hubs 3D Social VR software (visit hubs.mozilla.com).
 
-## 2.2. VR Displays
+# 2. VR Displays
 
 Fully immersive VR displays come in two sorts;  3-degree-of-freedom (you can look around, but they don't let you move) and 6-degree-of-freedom (you can look and move around).  We will use the later sort for this class. 
 
