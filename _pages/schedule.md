@@ -20,34 +20,35 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 
 |Week|Date|Topic|Meeting Location|Videos|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
-|1|Aug 17|Introduction to Class| Bluejeans | | **3DUI Ch 1** | Survey 1 | Lecture, will be recorded |
-| | 19| Git, Typescript, Babylon, A0 | | | [A0: Intro, out](https://github.com/3dui-class-f20/a0)  | Live demos/coding/setup, be prepared to follow along|
-|2|Aug 24 | History  | Teams | | **3DUI Ch 2**  |  | |
-| | 26 |  Hardware | Hubs | |  | A0: in | |
-|3|Aug 11| | | | | | |
-| |Sep 2| | | | | | |
-|4|Sep 7| | | | | | |
-| | 9|  | | | | | |
-|5|Sep 14|  | | | | | |
-| |16|  | | | | | |
-|6|Sep 21| | | | | | |
-| | 23 |  | | | | | |
-|7|Sep 28| | | | | | |
-| |  30|  | | | | | |
-|8|Oct 5|  | | | | | |
-| | 7|  | | | | | |
-|9|Oct 12|  | | | | | |
-| | 14| | | | | | |
-|10|Oct 19|  | | | | | |
-| | 21| | | | | | |
-|11|Oct 26|  | | | | | |
-| | 28|  | | | | | |
-|12|Nov 2|  | | | | | |
-| | 4|  | | | | | |
-|13|Nov 9|  | | | | | |
-| | 11|  | | | | | |
-|14|Nov 16|   | | | | | |
-| | 18| | | | | | |
-|15|Nov 23|  | | | | | |
-| | 25|  | | | | | |
+|1|Aug 17|Introduction to Class| Teams | | **3DUI Ch 1** | Background Survey | Lecture and discussion, will be recorded |
+| | 19| Git, Typescript, Babylon, A0 |Teams | | | A0: Intro, out | Live demos/coding/setup, be prepared to follow along |
+|2|Aug 24 | History  | Teams/Hubs | | **3DUI Ch 2**  | P1: History Poster, out | Social VR and history discussions in Hubs, Hubs tutorials/overview |
+| | 26 |  History | Teams/Hubs | | | A0: in (end of week) | A0 help, P1 help |
+|3|Aug 11| Human Factors (Attention and Perception) |Teams/Hubs| |**3DUI Ch3-3.2**, **Game Feel Chapter** | | Human Factors Q&A, hubs design issues|
+| |Sep 2| Human Factors (Cognition) |**P1 Presentations in Hubs: REQUIRED**| |**3DUI Ch3.3-3.6** | P1 in, P2 out | |
+|4|Sep 7|_Labor Day_ | | | | | |
+| | 9| UI Software Organization/Architecture | Teams | | **3DUI Ch4 if you don't have HCI class**, **3DUI Ch 10**| | Live coding and in-class exercise |
+|5|Sep 14| UI Software Organization/Architecture | **P2 Presentations in Hubs: REQUIRED**| | |P2 in | |
+| |16| UI Software Organization/Architecture | | | |Project Deliverable 0, A1 out | |
+|6|Sep 21| Output | | | | | |
+| | 23 | Output | | | | A1(a) in| |
+|7|Sep 28| Input | | | | | |
+| |  30| Input | | | | A1(b) in, Project Deliverable 1| |
+|8|Oct 5| **Project Proposal Presentations: REQUIRED** | | | | | |
+| | 7| Selection and Manipulation | | | | A1(c) in, A2 out| |
+|9|Oct 12| Selection and Manipulation | | | | | |
+| | 14| Selection and Manipulation | | | | | |
+|10|Oct 19| Travel | | | | A2 in, A3 out| |
+| | 21|Travel | | | | |ACM UIST, _Withdrawal deadline the 24th_|
+|11|Oct 26| Travel | | | | | |
+| | 28| Travel | | | |A4 out | |
+|12|Nov 2| System Control and Menus | | | |A3 in |ACM VRST |
+| | 4| System Control and Menus | | | | | ACM VRST|
+|13|Nov 9| System Control and Menus | | | | |IEEE ISMAR |
+| | 11| Future of 3D UIs | | | |A4 in, A5 out | IEEE ISMAR |
+|14|Nov 16| Privacy and Ethics | | | |Project Deliverable 2 | |
+| | 18| _TBA_ | | | | | |
+|15|Nov 23| **Project Presentations: REQUIRED** | | | | Project Deliverable 3| |
+| | 25| **Project Presentations: REQUIRED** | | | |A5 in | |
 |16|Nov 30| *reading day* | | | | | |
+| | | EXAM PERIOD: **Project & A5 Presentations, Attendence Required** | | | | | |

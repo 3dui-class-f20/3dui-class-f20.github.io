@@ -113,9 +113,9 @@ We may use the final exam period for presentation of the Graduate Projects.  I e
 
 3D interaction and interactive system creation are learned best by a combination of understanding the principles on which they are based, using them to accomplish tasks in 3D, and programming them.  Each of these will be addressed directly. A more detailed summary of the assignments you will do can be [found and the assignments page](/assignments/).
 
-For "principles", students will do [small written assignments](/assignments5-other-assignments), and [poster presentations](/assignments/#4-posters) on different topics.
+For "principles", students will do [small written assignments](/assignments/#5-other-assignments), and [poster presentations](/assignments/#4-posters) on different topics.
 
-For "use", we will use difference 3D systems throughout the semester, both desktop and immersive. For some of that usage, students will be asked to do written assignments about their experiences. A part of this will involve keeping a [VR diary](/assignments#51-social-vr-journal) over the course of the semester.  We will also have students collect images and notes as to where they use the VR displays, for use in a [privacy and ethics discussion in class](/assignments#53-vr-privacy-journal).
+For "use", we will use difference 3D systems throughout the semester, both desktop and immersive. For some of that usage, students will be asked to do written assignments about their experiences. A part of this will involve keeping a [social VR journal](/assignments#51-social-vr-journal) over the course of the semester.  We will also have students keep a [VR privacy journal](/assignments#53-vr-privacy-journal) collect images and notes as to where they use the VR displays, for use in a [privacy and ethics discussion in class.
 
 For "programming", each student will complete [three initial programming projects](/assignments#2-programming-assignments), written in Javascript and/or an object-oriented superset of Javascript called [Typescript](http://www.typescriptlang.org).
 
