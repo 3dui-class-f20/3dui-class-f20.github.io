@@ -64,7 +64,7 @@ Fully immersive VR displays come in two sorts;  3-degree-of-freedom (you can loo
 
 You will need a display that has a web browser that lets you program with [WebXR](https://immersiveweb.dev/), the web API for virtual and augmented reality.  Possibilities include VR displays connected to a Windows 10 desktop (e.g., HTC Vive, Vive Pro, or Cosmos; Oculus Rift; Valve Index; one of many Windows MR displays) or a stand-alone display such as the Oculus Quest or the Pico Neo2.
 
-VR devices that don't support a Web browser with WebXR will not work for this class (e.g., the PSVR for the PS4).  VR devices that are only 3DoF (e.g., orientation only) or do not have two 3DoF controllers (e.g., Gear VR, Daydream, Oculus GO, older Pico displays) will not work for this class.
+VR devices that don't support a Web browser with WebXR will not work for this class (e.g., the PSVR for the PS4).  VR devices that are only 3DoF (e.g., orientation only) or do not have two 6DoF controllers (e.g., Gear VR, Daydream, Oculus GO, older Pico displays) will not work for this class.
 
 If you have a device that will work, great! If you don't we will provide one. There is a survey on canvas that includes questions about your technology setup, that will help us figure out which display to send you.  We will sort this out after the first week, once we have a final list of who is registered for the class.
 
