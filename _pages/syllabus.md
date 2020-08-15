@@ -8,23 +8,25 @@ layout: single
 <!-- TOC -->
 
 - [1. Course Description](#1-course-description)
-    - [1.1. Course Expectations (expanding on what is in Banner)](#11-course-expectations-expanding-on-what-is-in-banner)
+    - [1.1. Course Expectations expanding on what is in Banner](#11-course-expectations-expanding-on-what-is-in-banner)
     - [1.2. VR Displays](#12-vr-displays)
 - [2. Course Goals](#2-course-goals)
 - [3. Required Textbooks](#3-required-textbooks)
 - [4. Grading](#4-grading)
     - [4.1. Exams](#41-exams)
 - [5. Homework Assignments](#5-homework-assignments)
-    - [5.2. Academic Integrity, Collaboration and Web Resources](#52-academic-integrity-collaboration-and-web-resources)
-    - [5.3. Use of Code You Did Not Write Yourself](#53-use-of-code-you-did-not-write-yourself)
-    - [5.4. Use of Media and Text you Did Not Create Yourself](#54-use-of-media-and-text-you-did-not-create-yourself)
-    - [5.5. Late Policy](#55-late-policy)
+    - [5.1. Academic Integrity, Collaboration and Web Resources](#51-academic-integrity-collaboration-and-web-resources)
+    - [5.2. Use of Code You Did Not Write Yourself](#52-use-of-code-you-did-not-write-yourself)
+    - [5.3. Use of Media and Text you Did Not Create Yourself](#53-use-of-media-and-text-you-did-not-create-yourself)
+    - [5.4. Late Policy](#54-late-policy)
 - [6. Grad Project for CS8803](#6-grad-project-for-cs8803)
     - [6.1. Human Subjects Training](#61-human-subjects-training)
 - [7. Attendance](#7-attendance)
 - [8. Accommodations for Students with Disabilities](#8-accommodations-for-students-with-disabilities)
 - [9. Anti-Harassment Policy](#9-anti-harassment-policy)
-- [10. Contacting the Instructor and TAs](#10-contacting-the-instructor-and-tas)
+- [10. Student Illness or Exposure to Covid-19](#10-student-illness-or-exposure-to-covid-19)
+- [11. CARE Center, Counseling Center, Stamps Health Services, and the Student Center](#11-care-center-counseling-center-stamps-health-services-and-the-student-center)
+- [12. Contacting the Instructor and TAs](#12-contacting-the-instructor-and-tas)
 
 <!-- /TOC -->
 
@@ -125,7 +127,7 @@ There will be one warm-up project handed out during the first week of class, aim
 
 Students must write all of the code for each assignment themselves without any form of code sharing by electronic, written, verbal or any other means. The only code from others that may be used in these assignments are those that are given by the instructor. Note that it is impossible to get an A in this course without completing all of the programming assignments.
 
-## 5.2. Academic Integrity, Collaboration and Web Resources
+## 5.1. Academic Integrity, Collaboration and Web Resources
 
 Students are expected to follow Georgia Tech's [code of academic conduct](http://www.honor.gatech.edu/). All code submitted for homeworks, all writing, and media creation such as posters and VR rooms, must be written by you alone.
 
@@ -139,7 +141,7 @@ I am required to forward all suspected cases of academic misconduct to the Offic
 
 If in doubt, ask.
 
-## 5.3. Use of Code You Did Not Write Yourself
+## 5.2. Use of Code You Did Not Write Yourself
 
 We will tell you explicitly what sample code and resources you may use in your assignments. Aside from this, you are expected to implement the "intellectual core" part of each assignment yourself; extra libraries (e.g., 2D web layout libraries like jquery, or audio libraries if you wish to add sounds) can be used if you desire, but they should not solve or simplify a core part of the assignment.   
 
@@ -149,11 +151,11 @@ The goal of the assignments is for YOU to demonstrate that you have learned how 
 
 If in doubt, ask.
 
-## 5.4. Use of Media and Text you Did Not Create Yourself
+## 5.3. Use of Media and Text you Did Not Create Yourself
 
 In the written assignments and poster and VR creation, you are expected to cite all material (images, text, etc) that you did not create yourself.  As with code, if in doubt, ask!
 
-## 5.5. Late Policy
+## 5.4. Late Policy
 
 The grade on a late assignment will drop 5% of the maximum grade for the assignment for each day beyond the due date (e.g., if an assignment is graded out of 10, you will lose 0.5 points per day). A day ends exactly 24 hours after the assignment is due. Assignments will typically be due at 11:59pm the night **before** the Tuesday/Thursday they are listed on the syllabus (the exact date and time will be shown on the assignment itself).
 
@@ -193,7 +195,21 @@ If you are a student with learning needs that require special accommodation, con
 
 We will implement a strict anti-harassment, zero tolerance policy in line with the institution’s general anti harassment policy as it is defined [here](http://titleix.gatech.edu/anti-harassment-policy).
 
-# 10. Contacting the Instructor and TAs
+# 10. Student Illness or Exposure to Covid-19
+
+During the semester, you may be required to quarantine or self-isolate to avoid the risk of infection to others.  Quarantine is the separation of those who have been exposed to someone with Covid-19 but who are not ill; isolation is the separation of those who have tested positive for Covid-19 or been diagnosed with Covid-19 by symptoms.
+
+If you have not tested positive but are ill or have been exposed to someone who is ill, please follow the Covid-19 Exposure Decision Tree for reporting your illness.
+
+During the quarantine or isolation period you may feel completely well, ill but able to work as usual, or too ill to work until you recover.  Unless you are too ill to work, you should be able to complete your remote work while in quarantine or isolation.
+
+If you are ill and unable to do course work this will be treated similarly to any student illness. The Dean of Students will have been contacted when you report your positive test or are told that it is necessary to quarantine and will notify your instructor that you may be unable to attend class events or finish your work as the result of a health issue. Your instructor will not be told the reason. We have asked all faculty to be lenient and understanding when setting work deadlines or expecting students to finish work, and so you should be able to catch up with any work that you miss while in quarantine or isolation. Your instructor may make available any video recordings of classes or slides that have been used while you are absent, and may prepare some complementary asynchronous assignments that compensate for your inability to participate in class sessions. Ask your instructor for the details.
+
+# 11. CARE Center, Counseling Center, Stamps Health Services, and the Student Center
+
+These uncertain times can be difficult, and many students may need help in dealing with stress and mental health. The CARE Center and the Counseling Center, and Stamps Health Services will offer both in-person and virtual appointments. Face-to-face appointments will require wearing a face covering and social distancing, with exceptions for medical examinations. Student Center services and operations are available on the Student Center website. For more information on these and other student services, contact the Vice President and Dean of Students or the Division of Student Life.
+
+# 12. Contacting the Instructor and TAs
 
 The instructor and TAs are available via email and Teams. However, please do not expect immediate answers on any of these forums, especially nights and weekends. We will check the various forums regularly, especially 9am-5pm M-F, and endeavor as a group to reply promptly. But please remember that each of us also has classes, assignments, work and other things that we will also need to focus on.  
 
