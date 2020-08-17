@@ -28,8 +28,8 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | |Sep 2| Human Factors (Cognition) |**P1 Presentations in Hubs: Attendance REQUIRED**| |**3DUI Ch3.3-3.6** | P1 in, P2 out | |
 |4|Sep 7|_Labor Day_ | | | **3DUI Ch4 & 11 if you don't have HCI class** | | |
 | | 9| UI Software Organization/Architecture | Teams | | **3DUI Ch 10**| | Live coding and in-class exercise |
-|5|Sep 14| UI Software Organization/Architecture | **P2 Presentations in Hubs: Attendance REQUIRED**| | |P2 in | |
-| |16| UI Software Organization/Architecture | | | |Project Deliverable 0, A1 out | Go over A1, coding, exercises |
+|5|Sep 14| UI Software Organization/Architecture | **P2 Presentations in Hubs: Attendance REQUIRED**| | |P2 in | i3D [free registration](https://bit.ly/i3d2020reg)|
+| |16| UI Software Organization/Architecture | | | |Project Deliverable 0, A1 out | Go over A1, coding, exercises, i3D [free registration](https://bit.ly/i3d2020reg) |
 |6|Sep 21| Output | | |**3DUI Ch5**  | | |
 | | 23 | Output | | | | A1(a) in| |
 |7|Sep 28| Input | | | **3DUI Ch6**| | |
