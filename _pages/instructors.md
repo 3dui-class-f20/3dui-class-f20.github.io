@@ -13,8 +13,8 @@ Blair MacIntyre (blair@gatech.edu)
 ## TAs
 - Nadia Fereydooni 
   - Office hours: TBA
-- Ryan Miles
-  - Office hours: TBA
+- Ryan Miles (rmiles30@gatech.edu)
+  - Office hours: Tuesday and Thursday 2pm-3pm
 - Teddy Chen
   - Office hours: TBA
   
