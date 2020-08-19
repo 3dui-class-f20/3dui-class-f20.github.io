@@ -8,13 +8,13 @@ classes: wide
 ## Instructor
 
 Blair MacIntyre (blair@gatech.edu)
-- Office Hours: TBA
+- Office Hours: Monday and Wednesday 2-3, Tuesday 9-11
 
 ## TAs
 - Nadia Fereydooni 
-  - Office hours: TBA
+  - Office hours: Tuesday and Friday 5-6pm
 - Ryan Miles (rmiles30@gatech.edu)
   - Office hours: Tuesday and Thursday 2pm-3pm
 - Teddy Chen
-  - Office hours: TBA
+  - Office hours: Wednesday 11-12 and Thursday 5-6pm
   
