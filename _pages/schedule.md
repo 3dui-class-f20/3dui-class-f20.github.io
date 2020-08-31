@@ -24,7 +24,7 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 19| Git, Typescript, Babylon, A0 |Teams | | | A0 out | Live demos/coding/setup, be prepared to follow along |
 |2|Aug 24 | History  | Teams/Hubs | | **3DUI Ch 2**  | P1 out | Social VR and history discussions in Hubs, Hubs tutorials/overview |
 | | 26 |  History | Teams/Hubs | | | A0 in (end of week) | A0 help, P1 help |
-|3|Aug 31| Human Factors (Attention and Perception) |Teams/Hubs| |**3DUI Ch3-3.2**, **Game Feel Chapter** | | Human Factors discussion, hubs design issues|
+|3|Aug 31| Human Factors (Attention and Perception) |Teams/Hubs| |**3DUI Ch3-3.2**, **Game Feel Chapter 2** | | Human Factors discussion, hubs design issues|
 | |Sep 2| Human Factors (Cognition) |**P1 Presentations in Hubs: Attendance REQUIRED**| |**3DUI Ch3.3-3.6** | P1 in, P2 out | |
 |4|Sep 7|_Labor Day_ | | | **3DUI Ch4 & 11 if you don't have HCI class** | | |
 | | 9| UI Software Organization/Architecture | Teams | | **3DUI Ch 10**| | Live coding and in-class exercise |
