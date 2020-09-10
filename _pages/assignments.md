@@ -53,9 +53,9 @@ The first month, we will be discussing the history of 3D user interfaces, as wel
 
 ## 5.1. Social VR Journal
 
-You will be asked to use social VR systems to socialize with friends and/or family, and do a short journal response (mixture of short answers and perhaps some numeric answers). You will also be asked to submit an image or short video of the experience (you may edit out content you don't want to submit), and optionally have those you interact with answer the same questions. We would like you to socialized in 3D at least once per week, but will only require you to do it and fill out the journal once every two weeks. Your responses will be sent back to you, and we will do an in-class reflective exercise in groups once per month. 
+The [Social VR Journalling](/assignments/social-journal/) is a longitudinal (long-term) experiential component of the class.  The premise of the assignment is very simple. At least once every two weeks you will use the VR equipment you have to stay in touch with friends or family, instead of using video or phone calls. We would like you to socialized in VR regularly, but will only require you to do it and fill out the journal on average once every two weeks (twice per month), starting the 5th week of class (six times total).
 
-The goal of this exercise is for you to have a longitudinal (long term) experience with using 3D user interfaces with other people, who are not in the class. You should use your VR equipment, but can use social systems like Hubs or AltspaceVR that allow the people you are socializing with to use non-VR displays. By reflecting on the experience many times over 3-4 months, and looking at your answers and how they change over time, and possibly the answers your friends and family provide, you should gain a deeper understanding of the pros and cons of the technologies you chose to use for this exercise.
+Each time you socialize with your friends or family members in VR, you will do a short journal response (mixture of short answers and some numeric answers). We ask you to submit an image or short video of the experience (you may edit out content you don’t want to submit), and optionally have those you interact with respond to the same questions (to help with the research study, below). 
 
 ## 5.2. Conference Paper Viewing
 
