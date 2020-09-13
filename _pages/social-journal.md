@@ -6,7 +6,7 @@ permalink: /assignments/social-journal/
 
 # Overview
 
-The Social VR Journalling is a longitudinal (long-term) experiential component of the class.  The premise of the assignment is very simple. At least once every two weeks you will use the VR equipment you have to stay in touch with friends or family, instead of using video or phone calls. We would like you to socialized in VR regularly, but will only require you to do it and fill out the journal on average once every two weeks (twice per month), starting the 5th week of class (six times total).
+The Social VR Journalling is a longitudinal (long-term) experiential component of the class.  The premise of the assignment is very simple. At least once every two weeks you will use the VR equipment you have to stay in touch with friends or family, instead of using video or phone calls. We would like you to socialized in VR regularly, but will only require you to do it and fill out the journal on average once every two weeks (twice per month), starting the 5th week of class (five times total).
 
 Each time you socialize with your friends or family members in VR, you will do a short journal response (mixture of short answers and some numeric answers). We ask you to submit an image or short video of the experience (you may edit out content you don’t want to submit), and optionally have those you interact with respond to the same questions (to help with the research study, below). 
 
@@ -24,7 +24,7 @@ You will be given a unique ID to submit with you journal entries, which will be 
 
 # Deliverables 
 
-You will need to do at least six journal entries, two per month. We would like you to spread them out so you have material to discuss during the monthly discussion sessions.  You are free to do more, but there will be six assignments posted to Canvas that you will upload your PDF to, for verification. 
+You will need to do at least five journal entries, two per month. We would like you to spread them out so you have material to discuss during the monthly discussion sessions.  You are free to do more, but there will be five assignments posted to Canvas that you will upload your PDF to, for verification. 
 
 The journal entries will be graded Pass/Fail: any reasonable answers will earn full points.
 

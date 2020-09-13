@@ -34,7 +34,7 @@ Both grad and undergrad sections:
 
 Undergrad section:
 - A3: an assignment on travel and navigation.
-- A4: an assignemnt on menus and system control, exploring both desktop 3D and immersive 3D.
+- A4: an assignment on menus and system control, exploring both desktop 3D and immersive 3D.
 - A5: a self-designed assignment creating a 3D interactive application in VR.
 
 # 3. Project
