@@ -30,8 +30,8 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 9| UI Software Organization/Architecture | _no in person this period_ | | **3DUI Ch 10**| |  |
 |5|Sep 14| UI Software Organization/Architecture | **P2 Presentations in Hubs: Attendance REQUIRED**| | |P2 in | i3D [free registration](https://bit.ly/i3d2020reg)|
 | |16| UI Software Organization/Architecture | | | |Project Deliverable 0, A1 out | Go over A1, coding, exercises, i3D [free registration](https://bit.ly/i3d2020reg) |
-|6|Sep 21| Output | | |**3DUI Ch5**  | | |
-| | 23 | Output | | | | A1(a) in| |
+|6|Sep 21| Output | Hubs "Hang Out 1" room for chat and help | |**3DUI Ch5**  | | |
+| | 23 | Output | | | | A1(b) out, A1(a) in (Friday)| |
 |7|Sep 28| Input | | | **3DUI Ch6**| | |
 | |  30| Input | | | | A1(b) in, Project Deliverable 1| |
 |8|Oct 5| **Project Proposal Presentations: REQUIRED** | | | | | |
