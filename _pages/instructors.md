@@ -8,7 +8,7 @@ classes: wide
 ## Instructor
 
 Blair MacIntyre (blair@gatech.edu)
-- Office Hours: in lieu of a few fixed hours, if you are in the class you can book time to talk to me via [Calendly](https://calendly.com/blairmacintyre/students).
+- Office Hours: in lieu of a few fixed hours, if you are in the class you can book time to talk to me via [Calendly](https://calendly.com/blairmacintyre/students).  If you can't find something that works, contact me on Teams.
 
 ## TAs
 - Nadia Fereydooni 
