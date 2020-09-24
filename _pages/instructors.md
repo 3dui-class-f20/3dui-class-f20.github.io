@@ -8,7 +8,7 @@ classes: wide
 ## Instructor
 
 Blair MacIntyre (blair@gatech.edu)
-- Office Hours: Monday 2:30-3:30, Tuesday 9-11, Wednesday 3-4
+- Office Hours: in lieu of a few fixed hours, if you are in the class you can book time to talk to me via [Calendly](https://calendly.com/blairmacintyre/students).
 
 ## TAs
 - Nadia Fereydooni 
