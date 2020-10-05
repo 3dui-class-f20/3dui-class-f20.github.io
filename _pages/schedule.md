@@ -31,14 +31,14 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |5|Sep 14| UI Software Organization/Architecture | **P2 Presentations in Hubs: Attendance REQUIRED**| | |P2 in | i3D [free registration](https://bit.ly/i3d2020reg)|
 | |16| UI Software Organization/Architecture | | | |Project Deliverable 0, A1 out | Go over A1, coding, exercises, i3D [free registration](https://bit.ly/i3d2020reg) |
 |6|Sep 21| Output | Hubs "Hang Out 1" room for chat and help | |**3DUI Ch5**  | | |
-| | 23 | Output | | | | A1(b) out, A1(a) in (Friday)| |
-|7|Sep 28| Input | | | **3DUI Ch6**| | |
-| |  30| Input | | | | A1(b) in, Project Deliverable 1| |
-|8|Oct 5| **Project Proposal Presentations: REQUIRED** | | | | | |
+| | 23 | Output |Hubs "Hang Out 1" for chat and help | | | A1(b) out, A1(a) in (Friday)| |
+|7|Sep 28| Input | Hubs "Hang Out 1" for chat and help| | **3DUI Ch6**| | |
+| |  30| Input |Hubs "Hang Out 2" for chat and help | | | A1(b) in, Project Deliverable 1| |
+|8|Oct 5| Selection and Manipulation | | | | | |
 | | 7| Selection and Manipulation | | |**3DUI Ch7** | A1(c) in, A2 out| |
-|9|Oct 12| Selection and Manipulation | | | | | |
+|9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | | |
 | | 14| Selection and Manipulation | | | | | |
-|10|Oct 19| Travel | | |**3DUI Ch8** | A2 in, A3 out| |
+|10|Oct 19| Travel |** Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | A2 in, A3 out| |
 | | 21|Travel | | | | |ACM UIST, _Withdrawal deadline the 24th_|
 |11|Oct 26| Travel | | | | | |
 | | 28| Travel | | | |A4 out | |
@@ -46,8 +46,8 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 4| System Control and Menus | | | | | ACM VRST|
 |13|Nov 9| System Control and Menus | | | | |IEEE ISMAR |
 | | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**|A4 in, A5 out | IEEE ISMAR |
-|14|Nov 16| Privacy and Ethics | | | |Project Deliverable 2 | |
-| | 18| _TBA_ | | | | | |
+|14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
+| | 18| ** Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
 |15|Nov 23| **Project Presentations: REQUIRED** | | | | Project Deliverable 3| |
 | | 25| **Project Presentations: REQUIRED** | | | |A5 in | |
 |16|Nov 30| *reading day* | | | | | |
