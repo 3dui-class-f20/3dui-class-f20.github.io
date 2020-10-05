@@ -34,7 +34,7 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 23 | Output |Hubs "Hang Out 1" for chat and help | | | A1(b) out, A1(a) in (Friday)| |
 |7|Sep 28| Input | Hubs "Hang Out 1" for chat and help| | **3DUI Ch6**| | |
 | |  30| Input |Hubs "Hang Out 2" for chat and help | | | A1(b) in, Project Deliverable 1| |
-|8|Oct 5| Selection and Manipulation | | | | | |
+|8|Oct 5| State Machines |Teams | | | | |
 | | 7| Selection and Manipulation | | |**3DUI Ch7** | A1(c) in, A2 out| |
 |9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | | |
 | | 14| Selection and Manipulation | | | | | |
