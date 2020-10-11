@@ -33,22 +33,22 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |6|Sep 21| Output | Hubs "Hang Out 1" room for chat and help | |**3DUI Ch5**  | | |
 | | 23 | Output |Hubs "Hang Out 1" for chat and help | | | A1(b) out, A1(a) in (Friday)| |
 |7|Sep 28| Input | Hubs "Hang Out 1" for chat and help| | **3DUI Ch6**| | |
-| |  30| Input |Hubs "Hang Out 2" for chat and help | | | A1(b) in, Project Deliverable 1| |
+| |  30| Input |Hubs "Blair's Office" for chat and help | | | A1(b) in, Project Deliverable 1| |
 |8|Oct 5| State Machines |Teams | | | | |
-| | 7| Selection and Manipulation | | |**3DUI Ch7** | A1(c) in, A2 out| |
-|9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | | |
-| | 14| Selection and Manipulation | | | | | |
-|10|Oct 19| Travel |** Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | A2 in, A3 out| |
-| | 21|Travel | | | | |ACM UIST, _Withdrawal deadline the 24th_|
-|11|Oct 26| Travel | | | | | |
-| | 28| Travel | | | |A4 out | |
-|12|Nov 2| System Control and Menus | | | **3DUI Ch9**|A3 in |ACM VRST |
-| | 4| System Control and Menus | | | | | ACM VRST|
-|13|Nov 9| System Control and Menus | | | | |IEEE ISMAR |
-| | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**|A4 in, A5 out | IEEE ISMAR |
+| | 7| Selection and Manipulation | Hubs "Blair's Office" for chat and help| |**3DUI Ch7** | A1(c) in| |
+|9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | A2 out| |
+| | 14| Selection and Manipulation |Hubs "Blair's Office" for chat and help | | | | |
+|10|Oct 19| Travel |** Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | | |
+| | 21|Travel |Hubs for Construction Experiment; "Blair's Office" for help | | | |ACM UIST, _Withdrawal deadline the 24th_|
+|11|Oct 26| Travel | | | |A2 in, A3 out| |
+| | 28| Travel | | | | | |
+|12|Nov 2| System Control and Menus | | | **3DUI Ch9**||ACM VRST |
+| | 4| System Control and Menus | | | | A4 out| ACM VRST|
+|13|Nov 9| System Control and Menus | | | |A3 in  |IEEE ISMAR |
+| | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**| | IEEE ISMAR |
 |14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
 | | 18| ** Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
-|15|Nov 23| **Project Presentations: REQUIRED** | | | | Project Deliverable 3| |
-| | 25| **Project Presentations: REQUIRED** | | | |A5 in | |
+|15|Nov 23| **Project Presentations: REQUIRED** | | || Project Deliverable 3| |
+| | 25| **Project Presentations: REQUIRED** | | | |A4 in  | |
 |16|Nov 30| *reading day* | | | | | |
-| | | EXAM PERIOD: **Project & A5 Presentations, Attendance Required** | | | | | |
+| | Dec 7, 11:30-2:10| EXAM PERIOD: **Project & A4 Presentations, Attendance Required** | | | | | |
