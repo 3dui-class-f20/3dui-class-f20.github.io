@@ -38,7 +38,7 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 7| Selection and Manipulation | Hubs "Blair's Office" for chat and help| |**3DUI Ch7** | A1(c) in| |
 |9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | A2 out| |
 | | 14| Selection and Manipulation |Hubs "Blair's Office" for chat and help | | | | |
-|10|Oct 19| Travel |** Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | | |
+|10|Oct 19| Travel |**Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | | |
 | | 21|Travel |Hubs for Construction Experiment; "Blair's Office" for help | | | |ACM UIST, _Withdrawal deadline the 24th_|
 |11|Oct 26| Travel | | | |A2 in, A3 out| |
 | | 28| Travel | | | | | |
@@ -47,7 +47,7 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |13|Nov 9| System Control and Menus | | | |A3 in  |IEEE ISMAR |
 | | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**| | IEEE ISMAR |
 |14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
-| | 18| ** Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
+| | 18| **Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
 |15|Nov 23| **Project Presentations: REQUIRED** | | || Project Deliverable 3| |
 | | 25| **Project Presentations: REQUIRED** | | | |A4 in  | |
 |16|Nov 30| *reading day* | | | | | |
