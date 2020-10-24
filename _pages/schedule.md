@@ -36,11 +36,11 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | |  30| Input |Hubs "Blair's Office" for chat and help | | | A1(b) in, Project Deliverable 1| |
 |8|Oct 5| State Machines |Teams | | | | |
 | | 7| Selection and Manipulation | Hubs "Blair's Office" for chat and help| |**3DUI Ch7** | A1(c) in| |
-|9|Oct 12| **Project Proposal Presentations: REQUIRED** | | | | A2 out| |
+|9|Oct 12| **Project Proposal Presentations: REQUIRED** |Teams | | A2 out| |
 | | 14| Selection and Manipulation |Hubs "Blair's Office" for chat and help | | | | |
 |10|Oct 19| Travel |**Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | | |
 | | 21|Travel |Hubs for Construction Experiment; "Blair's Office" for help | | | |ACM UIST, _Withdrawal deadline the 24th_|
-|11|Oct 26| Travel | | | |A2 in, A3 out| |
+|11|Oct 26| Travel |Teams, lecture and A3 | | |A2 in, A3 out| |
 | | 28| Travel | | | | | |
 |12|Nov 2| System Control and Menus | | | **3DUI Ch9**||ACM VRST |
 | | 4| System Control and Menus | | | | A4 out| ACM VRST|
