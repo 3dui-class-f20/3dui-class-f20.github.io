@@ -41,9 +41,9 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |10|Oct 19| Travel |**Discussion of Social VR Journal Experience, 1**|Hubs Rooms for Discussion|**3DUI Ch8** | | |
 | | 21|Travel |Hubs for Construction Experiment; "Blair's Office" for help | | | |ACM UIST, _Withdrawal deadline the 24th_|
 |11|Oct 26| Travel |Teams, lecture and A3 | | |A2 in, A3 out| |
-| | 28| Travel | | | | | |
-|12|Nov 2| System Control and Menus | | | **3DUI Ch9**||ACM VRST |
-| | 4| System Control and Menus | | | | A4 out| ACM VRST|
+| | 28| Travel |Hubs "Blair's Office" for chat and help | | | | |
+|12|Nov 2| System Control and Menus |Hubs "Blair's Office" for chat and help | | **3DUI Ch9**||ACM VRST |
+| | 4| System Control and Menus |Hubs "Blair's Office" for chat and help | | | A4 out | ACM VRST|
 |13|Nov 9| System Control and Menus | | | |A3 in  |IEEE ISMAR |
 | | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**| | IEEE ISMAR |
 |14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
