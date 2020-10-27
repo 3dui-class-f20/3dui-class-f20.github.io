@@ -51,4 +51,4 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |15|Nov 23| **Project Presentations: REQUIRED** | | || Project Deliverable 3| |
 | | 25| **Project Presentations: REQUIRED** | | | |A4 in  | |
 |16|Nov 30| *reading day* | | | | | |
-| | Dec 7, 11:30-2:10| EXAM PERIOD: _no exam, have a good holiday_ | | | | | |
+| | Dec 7, 11:30-2:10| EXAM PERIOD| _no exam, have a good holiday_ | | | | |
