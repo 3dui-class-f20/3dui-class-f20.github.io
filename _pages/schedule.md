@@ -44,8 +44,8 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 | | 28| Travel |Hubs "Blair's Office" for chat and help | | | | |
 |12|Nov 2| System Control and Menus | _blair "away" at conference, contact if you need to chat_ | | **3DUI Ch9**|| **BLAIR at ACM VRST**|
 | | 4| System Control and Menus |_blair "away" at conference, contact if you need to chat_ | | | A4 out |**BLAIR at ACM VRST**|
-|13|Nov 9| System Control and Menus | | | |A3 in  |IEEE ISMAR |
-| | 11| Future of 3D UIs | | | **3DUI Part VI Ch12**| | IEEE ISMAR |
+|13|Nov 9| System Control and Menus | Teams for lecture and discussion | | |A3 in  |IEEE ISMAR |
+| | 11| Future of 3D UIs |Teams for lecture and discussion | | **3DUI Part VI Ch12**| | IEEE ISMAR |
 |14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
 | | 18| **Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
 |15|Nov 23| **Project Presentations: REQUIRED** | | || Project Deliverable 3| |
