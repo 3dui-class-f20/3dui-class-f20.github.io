@@ -49,6 +49,6 @@ The Meeting Locations details will be posted on Canvas.  We will either meet in 
 |14|Nov 16| Privacy and Ethics | Hubs rooms for Discussion and activities | | |Project Deliverable 2 | |
 | | 18| **Discussion of Social VR (Journal and other))** | Hubs Rooms for Discussion | | | | |
 |15|Nov 23| **Project Presentations: REQUIRED** | | || Project Deliverable 3| |
-| | 25| *reading day* | | | |A4 in | |
+| | 25| *reading day* | | | |A4 in (Tue) | |
 |16|Nov 30| *reading day* | | | | | |
 | | Dec 7, 11:30-2:10| EXAM PERIOD| _no exam, have a good holiday_ | | | | |
