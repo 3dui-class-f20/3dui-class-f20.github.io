@@ -102,15 +102,20 @@ In some cases, we may award bonus points for extreme novelty or extra "polish" (
  
 # 7. Milestone 3: Project Presentation and Demo
 
-During the last class meetings, students will be responsible for a presentation on their project.  This will include a demonstration of your work as well as an overview of your project's motivation and implementation.
+During the last class meeting, students will be responsible for a presentation on their project.  This will include a demonstration of your work as well as an overview of your project's motivation and implementation.
 
-If you rely on special equipment that can't be transported to class, please bring a video and slides; if you have special logistics considerations you may schedule time for a private demo with permission of the instructor.
+The presentation will take three forms:
+- You should create a *public* room on hubs.ael3dui.net (our hubs server) and create a self-directed, museum-style presentation of your project.  We recommend you create the space in the Spoke editor, which will allow it to be exported from the server if you want to keep a copy (or move it to hubs.mozilla.com).  The class server will stay up for a while, but not forever.
+- You will create a presentation video of *at most* 15 minutes, which is the main presentation described below.  This video should be embedded in your hubs room. You probably won't be able to upload this to the hubs server, so store it anywhere that is accessible to hubs (e.g., an unpublished youtube video, in dropbox, etc.) if it can't be uploaded.
+- You will create a short presentation video of *at most* 5 minutes, which will be shown and discussed during the class presentation period on Monday, November 23rd.  This should also be in the Hubs room, as the longer one.
 
-Note that it is your responsibility to understand what equipment is available in the classroom and come prepared! For example, most classrooms have both VGA and HDMI connections for the projector, but you should check this for the current semester. Be sure to bring your laptop power adapter.
+One way to approach the above is to create a presentation, embed the slides and videos (and perhaps other visual material) in the hubs room, and then make a video of yourselves giving the presentation.  A second way to approach the above is to create the Hubs scene, and then make a video of yourself presenting in the Hubs room.  You may use these, or other approaches, as you wish.  Do what you feel most comfortable doing.
 
-Given that our presentation schedule is very tight, here will be a substantial penalty on the grade for this milestone if we have to reschedule due to lack of preparedness.
+The videos should be will be assembled and shown by the instructor during the class presentation period.
 
-The presentation will count for 20 points in the overall project grade.
+Given that our presentation schedule is very tight, here will be a substantial penalty on the grade for this milestone if we have to reschedule due to lack of preparedness.  
+
+The presentation will count for 20 points in the overall project grade, split between the 3 parts (Hubs, Long, and Short videos).  
 
 In this milestone we are only grading for the quality of the presentation itself, not the overall quality of your system. Presentations will be graded on the following basis:
 
@@ -119,7 +124,10 @@ In this milestone we are only grading for the quality of the presentation itself
 - Pacing. Does the presentation fit well into the allotted time? Is it too rushed? Are the presenters "stretching" the material to fill time?
 - Motivation. Presentations should be understandable by everyone in the class, not just your team members. Do you set up and motivate your work well? Do you explain why it's a good idea?
 
-You may want to do a practice talk or two in front of friends to make sure your timing is right and that your presentation does a good job of conveying your project.
+The short video presentation should focus on what you did, how successful it was, what problems you faced, and so on.  The longer video should include more implementation details and motivations.  The hubs room can include as much detail as  you would like, as long it is clear to the video to the room how to view it (e.g., the order and path through the space).
+
+You may want to do a practice talk or two before recording, to make sure your timing is right and that your presentation does a good job of conveying your project. You do not need to worry about everything being "perfect" (in terms of speaking, "umms" and pauses, etc ...) but you should appear prepared and the pacing should be good.  You also should not feel like you need to create the videos in "one shot"; capturing a bit, pausing, doing more, and then piecing the parts together is perfectly fine.
+
  
 # 8. Milestone 4: Project Writeup
 
